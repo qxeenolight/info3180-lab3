@@ -1,3 +1,35 @@
 body {
     padding-top: 5rem;
 }
+
+
+/* -----------Heading----------- */
+h1 {
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+/* -------------Form------------ */
+.form-group {
+    margin-bottom: 35px;
+}
+
+.form-group b {
+    color: rgb(199, 28, 28);
+}
+
+.form-group p {
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
+
+
+/* ------------Button----------- */
+.btn {
+    color: white;
+    background-color: rgb(33, 133, 233);
+    width: 100px;
+}
